@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "732122064355",
+    "firebase_url": "https://cart-management-1c304-default-rtdb.firebaseio.com",
+    "project_id": "cart-management-1c304",
+    "storage_bucket": "cart-management-1c304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732122064355:android:0c4fc1f79c715095126cd6",
+        "android_client_info": {
+          "package_name": "com.tech.cartmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732122064355-4qa0hvfkklp5nn8r3u46hfbfkssksvnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.cartmanagement",
+            "certificate_hash": "6bb6a2623ed7c72596842167f44b1c93ccdb9462"
+          }
+        },
+        {
+          "client_id": "732122064355-dj3h2f91mhimm4p239gudjt3avget9vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.cartmanagement",
+            "certificate_hash": "29ec014a37761b2108300e260b7cd6d7dfc95495"
+          }
+        },
+        {
+          "client_id": "732122064355-0jrg7t27oh8kkpqkvovr2jp3sdf8j0cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8PbyMyDw1Jtjjny8B8pnXV9HLY_IaSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732122064355-0jrg7t27oh8kkpqkvovr2jp3sdf8j0cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
