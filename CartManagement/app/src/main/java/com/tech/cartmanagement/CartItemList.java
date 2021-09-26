@@ -164,7 +164,7 @@ public class CartItemList extends AppCompatActivity {
                 }
             });
 
-            // update button
+            // update button (funsion)
             holder.imageButton1.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
