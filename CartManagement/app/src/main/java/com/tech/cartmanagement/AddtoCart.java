@@ -47,7 +47,7 @@ public class AddtoCart extends AppCompatActivity {
          button = (Button) findViewById(R.id.gotocart);
 
         user = new ArrayList<>();
-//Go to cart button
+//Go to cart button (Funsion)
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
